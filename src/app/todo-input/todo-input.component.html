@@ -1,0 +1,2 @@
+<input type="text" [(ngModel)]="task" placeholder="Enter task">
+<button (click)="addTask()" [disabled]="!task.trim()">Add</button>

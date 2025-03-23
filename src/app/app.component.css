@@ -1,0 +1,23 @@
+.todo-container {
+
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  border: 2px solid red;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+
+}
+.input-container {
+
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  border: 2px solid yellow;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+
+}
+
