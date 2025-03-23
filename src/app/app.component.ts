@@ -11,7 +11,7 @@ import { TodoListComponent } from './todo-list/todo-list.component';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  todos: Todo[] = [];
+  todos: any[] = [];
 
   addTodo(text: string) {
     if (text.trim()) {
